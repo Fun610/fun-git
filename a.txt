@@ -1,3 +1,8 @@
 public static  void mian(String[] args){
-       system.out.println("Fun")
+       system.out.println("Fun");
+        system.out.println("Fun");
+         system.out.println("Fun");
+          system.out.println("Fun");
+           system.out.println("Fun");
+            system.out.println("Fun");
 }
